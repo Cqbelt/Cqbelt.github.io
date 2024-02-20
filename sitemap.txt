@@ -1,3 +1,4 @@
+http://example.com/2024/02/20/test/
 http://example.com/404/404.html
 http://example.com/404/index.html
 http://example.com/about/index.html
