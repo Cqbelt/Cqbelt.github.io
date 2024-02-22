@@ -4,7 +4,7 @@
     <title>博客说明</title>
     <url>/2024/02/22/%E5%8D%9A%E5%AE%A2%E8%AF%B4%E6%98%8E/</url>
     <content><![CDATA[<p><font face=“宋体”  size = 4>　　Hexo 是一个快速、简洁且高效的博客框架。本博客网站基于Hexo + Medoly + Github开发，引入Valine、Generator、Renderer等插件，具备文章评论，本地搜索，字数统计等功能。底层使用 EJS（Embedded JavaScript templates）模板引擎来渲染 Markdown 页面，允许在 HTML 中嵌入 JavaScript 代码，动态生成网页。</p>
-<p>通过记录生活趣事、分享生活体会，摘录经典文章，希望能打造出一份有趣且富有个性的博客网站！<br></font></p>
+<p>　　通过记录生活趣事、分享生活体会，摘录经典文章，希望能打造出一份有趣且富有个性的博客网站！欢迎与我交流！<br></font></p>
 ]]></content>
   </entry>
   <entry>
