@@ -65,7 +65,7 @@
     <link href="https://cqbelt.github.io/2024/02/22/%E5%8D%9A%E5%AE%A2%E8%AF%B4%E6%98%8E/"/>
     <id>https://cqbelt.github.io/2024/02/22/%E5%8D%9A%E5%AE%A2%E8%AF%B4%E6%98%8E/</id>
     <published>2024-02-22T11:53:23.000Z</published>
-    <updated>2024-03-08T13:56:47.842Z</updated>
+    <updated>2024-03-08T13:59:20.996Z</updated>
     
     <content type="html"><![CDATA[<p>　　Hexo 是一个快速、简洁且高效的博客框架。本博客网站基于Hexo + Medoly + Github开发，引入Valine、Generator、Renderer等插件，具备文章评论，本地搜索，字数统计等功能。底层使用 EJS（Embedded JavaScript templates）模板引擎来渲染 Markdown 页面，允许在 HTML 中嵌入 JavaScript 代码，动态生成网页。</p><p>　　由于代码托管在Github平台，可能由于网络原因等，访问速度慢，甚至无法访问。 (。&gt;︿&lt;)_θ 此外，评论模块的服务器也在国外，响应时间可能较长，用户体验较差。由此带来的种种不便，敬请见谅。</p><p>　　总之，通过记录生活趣事、分享生活体会，摘录经典文章，希望能打造出一份有趣且富有个性的博客网站！欢迎与我在留言板交流，期待碰撞出思想的火花！</p>]]></content>
     
