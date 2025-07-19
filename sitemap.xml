@@ -461,7 +461,7 @@
 
   
   <url>
-    <loc>https://cqbelt.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://cqbelt.github.io/tags/%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87/</loc>
     <lastmod>2025-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -469,6 +469,13 @@
   
   <url>
     <loc>https://cqbelt.github.io/tags/%E6%83%B3%E6%B3%95/</loc>
+    <lastmod>2025-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cqbelt.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -489,13 +496,6 @@
   </url>
   
   <url>
-    <loc>https://cqbelt.github.io/tags/%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87/</loc>
-    <lastmod>2025-07-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cqbelt.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
     <lastmod>2025-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -503,14 +503,14 @@
   </url>
   
   <url>
-    <loc>https://cqbelt.github.io/tags/%E6%A0%A1%E5%9B%AD/</loc>
+    <loc>https://cqbelt.github.io/tags/%E5%B0%8F%E8%AF%97/</loc>
     <lastmod>2025-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://cqbelt.github.io/tags/%E5%B0%8F%E8%AF%97/</loc>
+    <loc>https://cqbelt.github.io/tags/%E6%A0%A1%E5%9B%AD/</loc>
     <lastmod>2025-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
