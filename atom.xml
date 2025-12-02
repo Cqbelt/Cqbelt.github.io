@@ -6,7 +6,7 @@
   <link href="https://cqbelt.github.io/atom.xml" rel="self"/>
   
   <link href="https://cqbelt.github.io/"/>
-  <updated>2025-11-17T11:51:23.833Z</updated>
+  <updated>2025-12-02T13:44:41.916Z</updated>
   <id>https://cqbelt.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>集邮论</title>
+    <link href="https://cqbelt.github.io/2025/12/02/%E9%9B%86%E9%82%AE%E8%AE%BA/"/>
+    <id>https://cqbelt.github.io/2025/12/02/%E9%9B%86%E9%82%AE%E8%AE%BA/</id>
+    <published>2025-12-02T13:43:35.000Z</published>
+    <updated>2025-12-02T13:44:41.916Z</updated>
+    
+    <content type="html"><![CDATA[<p>    人工智能像集邮，是因为它长期依赖经验性积累而非原理性突破。其发展路径不是由统一理论驱动，而是通过不断收集更大规模的数据、堆叠更深的模型结构、调整更多超参数，在特定任务上验证有效即止。这种模式具有典型的工程暴力美学特征，不追求对智能本质的可解释机制，只要在实践中 work 就被采纳。学科高度交叉，融合统计学、优化、神经科学、语言学甚至硬件工程，但各部分之间缺乏深层逻辑自洽，更多是模块拼接与调参试错。每一代模型在各自赛道激烈竞争，胜出者往往不是因理论更优，而是工程实现更稳、资源投入更大。近年来大模型展现出一定统一趋势，用同一架构覆盖多任务，看似走向整合，实则仍建立在scaling law的经验规律之上，未触及认知、推理、因果等核心问题的本质建模。大模型作为集邮的巅峰之作，已提供强大基座，但若止步于scaling，终将遭遇收益递减。唯有将工程成就转化为科学问题，把“能work”升华为“可理解、可构造、可证明”，人工智能才能从经验技艺迈向统一科学。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;    人工智能像集邮，是因为它长期依赖经验性积累而非原理性突破。其发展路径不是由统一理论驱动，而是通过不断收集更大规模的数据、堆叠更深的模型结构、调整更多超参数，在特定任务上验证有效即止。这种模式具有典型的工程暴力美学特征，不追求对智能本质的可解释机制，只要在实践中 wo</summary>
+      
+    
+    
+    
+    <category term="随笔杂记" scheme="https://cqbelt.github.io/categories/%E9%9A%8F%E7%AC%94%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="想法" scheme="https://cqbelt.github.io/tags/%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>歌乐山之行</title>
@@ -461,31 +485,6 @@
     
     
     <category term="想法" scheme="https://cqbelt.github.io/tags/%E6%83%B3%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小说阅读</title>
-    <link href="https://cqbelt.github.io/2025/01/25/%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB/"/>
-    <id>https://cqbelt.github.io/2025/01/25/%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB/</id>
-    <published>2025-01-25T02:56:05.000Z</published>
-    <updated>2025-01-25T02:57:39.009Z</updated>
-    
-    <content type="html"><![CDATA[<p>《戒糖》</p><p>    女主出身小城市家庭，考到了顶尖名校，学财务，毕业后留在一线城市奋斗，有四年工作经验。但公司业务调整，部门撤销，女主被裁了，很悲伤，不敢告诉别人，悲伤之后投简历应聘。到了一家小公司，只有老板两个人。工资还可，因为感觉不规范，本来想跑。想到找不到别的工作，不如先工作看看，于是就入职。最初，很讨厌老板的行事，老板对自己多有冒犯，但因为一系列机缘后来发现自己有所误解，由恨到怜，由怜到爱，逐渐接受，最后终于承认自己的喜欢。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;《戒糖》&lt;/p&gt;
-&lt;p&gt;    女主出身小城市家庭，考到了顶尖名校，学财务，毕业后留在一线城市奋斗，有四年工作经验。但公司业务调整，部门撤销，女主被裁了，很悲伤，不敢告诉别人，悲伤之后投简历应聘。到了一家小公司，只有老板两个人。工资还可，因为感觉不规范，本来想跑。想到找不到</summary>
-      
-    
-    
-    
-    <category term="随笔杂记" scheme="https://cqbelt.github.io/categories/%E9%9A%8F%E7%AC%94%E6%9D%82%E8%AE%B0/"/>
-    
-    
-    <category term="阅读" scheme="https://cqbelt.github.io/tags/%E9%98%85%E8%AF%BB/"/>
     
   </entry>
   
