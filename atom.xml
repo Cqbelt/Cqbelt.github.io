@@ -6,7 +6,7 @@
   <link href="https://cqbelt.github.io/atom.xml" rel="self"/>
   
   <link href="https://cqbelt.github.io/"/>
-  <updated>2026-05-14T04:38:31.692Z</updated>
+  <updated>2026-07-08T12:03:00.127Z</updated>
   <id>https://cqbelt.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AI替代</title>
+    <link href="https://cqbelt.github.io/2026/07/08/AI%E6%9B%BF%E4%BB%A3/"/>
+    <id>https://cqbelt.github.io/2026/07/08/AI%E6%9B%BF%E4%BB%A3/</id>
+    <published>2026-07-08T12:02:19.000Z</published>
+    <updated>2026-07-08T12:03:00.127Z</updated>
+    
+    <content type="html"><![CDATA[<p>    从宏观和长周期来看，AI在系统性地剥夺普通人的劳动价值，并将其转移到了资本和算力上。过去，一个工程师脑子里的排障经验，是凝结在他这个人身上的。他凭这个手艺，可以拿高薪，这叫劳动价值。但现在，AI把这种经验抽离出来了，写成了代码、变成了模型参数。一旦凝结到了硅基芯片和算法上，这个劳动价值就不再属于人了，而是属于拥有这个AI的公司。</p><p>    当原本需要10个人干一天的活，现在AI几分钟干完时，这10个人的劳动价值就被彻底清零了。此外，AI的边际复制成本几乎为零。对于普通的文案、画师、初级程序员而言，其产出是可以被AI无限替代的。在资本眼里，劳动者不是资产，而是成本。当市场上充斥着AI生成的廉价替代品时，人类为了保住饭碗，只能被迫接受降薪，或者去干AI干不了的脏活累活。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;    从宏观和长周期来看，AI在系统性地剥夺普通人的劳动价值，并将其转移到了资本和算力上。过去，一个工程师脑子里的排障经验，是凝结在他这个人身上的。他凭这个手艺，可以拿高薪，这叫劳动价值。但现在，AI把这种经验抽离出来了，写成了代码、变成了模型参数。一旦凝结到了硅基芯片和</summary>
+      
+    
+    
+    
+    <category term="随笔杂记" scheme="https://cqbelt.github.io/categories/%E9%9A%8F%E7%AC%94%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="想法" scheme="https://cqbelt.github.io/tags/%E6%83%B3%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>心理建设</title>
@@ -471,30 +495,6 @@
     
     
     <category term="想法" scheme="https://cqbelt.github.io/tags/%E6%83%B3%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>职业危机</title>
-    <link href="https://cqbelt.github.io/2025/05/05/%E8%81%8C%E4%B8%9A%E5%8D%B1%E6%9C%BA/"/>
-    <id>https://cqbelt.github.io/2025/05/05/%E8%81%8C%E4%B8%9A%E5%8D%B1%E6%9C%BA/</id>
-    <published>2025-05-05T13:59:11.000Z</published>
-    <updated>2025-05-05T14:00:11.305Z</updated>
-    
-    <content type="html"><![CDATA[<p>    同事离职，倍感放松，由衷为此开心。工作满两年，渐遇职业危机，未见好转，表面上央企的壳子，稳定有保障，实际上技术落后，业务不通，考核力度加大，压力提升而能力难有提升，薪酬上不升反降，陷入发展瓶颈，达到天花板，未来五年十年都是如此，大好黄金年华将葬送于此。这样的环境，满是压抑，有心无力。然而，我除了慨叹，还有很多事可以做，而不是浑浑噩噩。今年以降，我自认为人生将会迎来转机，这是需要主动去创造，去争取的。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;    同事离职，倍感放松，由衷为此开心。工作满两年，渐遇职业危机，未见好转，表面上央企的壳子，稳定有保障，实际上技术落后，业务不通，考核力度加大，压力提升而能力难有提升，薪酬上不升反降，陷入发展瓶颈，达到天花板，未来五年十年都是如此，大好黄金年华将葬送于此。这样的环境，满</summary>
-      
-    
-    
-    
-    <category term="生活感悟" scheme="https://cqbelt.github.io/categories/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/"/>
-    
-    
-    <category term="职场" scheme="https://cqbelt.github.io/tags/%E8%81%8C%E5%9C%BA/"/>
     
   </entry>
   
